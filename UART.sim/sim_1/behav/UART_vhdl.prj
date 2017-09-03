@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../UART.ip_user_files/bd/uart_buffer_mem/ip/uart_buffer_mem_blk_mem_gen_0_0/uart_buffer_mem_blk_mem_gen_0_0_sim_netlist.vhdl"
+vhdl xil_defaultlib  "../../../UART.ip_user_files/bd/uart_buffer_mem/hdl/uart_buffer_mem.vhd"
+vhdl xil_defaultlib  "../../../UART.srcs/sources_1/new/UART.vhd"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sat Aug 12 13:36:33 2017
+# Process ID: 3892
+# Current directory: C:/Users/tim/fpgaprojects/useful-components/UART/UART.runs/impl_1
+# Command line: vivado.exe -log UARTtest.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source UARTtest.tcl -notrace
+# Log file: C:/Users/tim/fpgaprojects/useful-components/UART/UART.runs/impl_1/UARTtest.vdi
+# Journal file: C:/Users/tim/fpgaprojects/useful-components/UART/UART.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source UARTtest.tcl -notrace
